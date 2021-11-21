@@ -1,9 +1,9 @@
 #pragma once
 #include <iostream>
 #include <unordered_map>
-#include <math.h>
+#include <math.h> // floor
 #include <vector>
-#include <algorithm>
+#include <algorithm>  // std::find 
 #include <random>
 
 struct tuple {  // data stucture used to return minimax's result
