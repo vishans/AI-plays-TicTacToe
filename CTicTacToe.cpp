@@ -9,7 +9,8 @@ int main()
     myGame.switchANSIcolorOutput();
     
 
-    int count = 2;
+    int count = 2;  //controls turn of each player and at the beginning specifies who starts i.e who plays first
+                    //in this case, player with symbol 2 goes first i.e the Machine will play first.
 
     while (true) {
         //
